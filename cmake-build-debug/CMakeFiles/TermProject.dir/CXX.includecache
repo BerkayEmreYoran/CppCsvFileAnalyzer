@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/YUNUS/CLionProjects/TermProject/cppVector.cpp
+cppVector.h
+C:/Users/YUNUS/CLionProjects/TermProject/cppVector.h
+iostream
+-
+
+C:/Users/YUNUS/CLionProjects/TermProject/cppVector.h
+
+C:/Users/YUNUS/CLionProjects/TermProject/hashTable.cpp
+hashTable.h
+C:/Users/YUNUS/CLionProjects/TermProject/hashTable.h
+utility
+-
+
+C:/Users/YUNUS/CLionProjects/TermProject/hashTable.h
+string
+-
+iostream
+-
+sstream
+-
+
+C:/Users/YUNUS/CLionProjects/TermProject/main.cpp
+fstream
+-
+rowReader.h
+C:/Users/YUNUS/CLionProjects/TermProject/rowReader.h
+hashTable.h
+C:/Users/YUNUS/CLionProjects/TermProject/hashTable.h
+chrono
+-
+
+C:/Users/YUNUS/CLionProjects/TermProject/rowReader.h
+cppVector.cpp
+C:/Users/YUNUS/CLionProjects/TermProject/cppVector.cpp
+
